@@ -10,9 +10,9 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 4. [Polynomial Addition and Subtraction](#4-polynomial-addition-and-subtraction)
 5. [Stack Implementation](#5-stack-implementation)
 6. [Balanced Parentheses](#6-balanced-parentheses)
-7. [Reverse a String](#7-reverse-a-string)
-8. [Postfix Expression Evaluation](#8-postfix-expression-evaluation)
-9. [Prefix Expression Evaluation](#9-prefix-expression-evaluation)
+7. [Reverse a String Using Stack](#7-reverse-a-string-using-stack)
+8. [Evaluation of a Postfix Expression](#8-evaluation-of-a-postfix-expression)
+9. [Evaluation of a Prefix Expression](#9-evaluation-of-a-prefix-expression)
 10. [Infix to Postfix Conversion](#10-infix-to-postfix-conversion)
 11. [Infix to Prefix Conversion](#11-infix-to-prefix-conversion)
 12. [Queue Implementation](#12-queue-implementation)
@@ -23,7 +23,10 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 17. [Linear Search](#17-linear-search)
 18. [Binary Search](#18-binary-search)
 19. [Linear Search on Sorted Data](#19-linear-search-on-sorted-data)
-20. [Binary Search Tree](#20-binary-search-tree)
+20. [Binary Search Tree (BST) - Add, Search, Min, Max](#20-binary-search-tree-bst---add-search-min-max)
+21. [Binary Search Tree (BST) - Create, Insert, Count Leaf Nodes, Count Total Nodes, and Depth](#21-binary-search-tree-bst---create-insert-count-leaf-nodes-count-total-nodes-and-depth)
+22. [Bubble Sort (Alternate Implementation)](#22-bubble-sort-alternate-implementation)
+23. [Insertion Sort (Alternate Implementation)](#23-insertion-sort-alternate-implementation)
 
 ---
 
